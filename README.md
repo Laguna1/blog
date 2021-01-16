@@ -3,6 +3,7 @@ PROJECT: BLOG APP from the OdinProject
 
 https://guides.rubyonrails.org/getting_started.html
 
+![Blog](./screen.png)
 
 ## Getting Started
 
